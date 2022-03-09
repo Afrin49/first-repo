@@ -1,0 +1,2 @@
+john is junior developer.
+he wants to add changes to repo sent by sam.
